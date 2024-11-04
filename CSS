@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: darkred; /* Cambia a otro color si lo deseas */
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    margin-bottom: 20px; /* Ajusta el margen según necesites */
+}
+
+section {
+    padding: 20px;
+}
